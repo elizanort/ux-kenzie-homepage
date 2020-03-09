@@ -68,11 +68,11 @@ nav li {
   align-items: center;
 }
 
-.signup-form__h3 {
+.signup-form__title {
   font-size: 200%;
 }
 
-.signup-form__p {
+.signup-form__subtitle {
   text-align: center;
   width: 60vw;
 }
